@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I'm Aref
 
 🌱 I’m currently learning React
 <!--
