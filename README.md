@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning React
 <!--
 **abdallaharef65/abdallaharef65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
